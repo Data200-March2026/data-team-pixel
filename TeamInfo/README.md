@@ -7,7 +7,7 @@
 
 ### Team Members
 1. Krish Maharjan (diretrix-git)*
-2. *Member 2 Name (GitHub Username)*
+2. Prajjwal Gyawali (PrajjwalGyawali)*
 3. *Member 3 Name (GitHub Username)*
 
 ### Task Division
